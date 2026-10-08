@@ -1,16 +1,22 @@
-## Hi there 👋
+Привет! Я — Сидорчук Анна
+<img width="820" height="820" alt="image" src="https://github.com/user-attachments/assets/b1a1917d-ff9c-4d3f-b513-a04f97e066d4" />
 
-<!--
-**Annapolis09/Annapolis09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать в мой профиль на GitHub! 
 
-Here are some ideas to get you started:
+## Обо мне
+* 🎓 **Студент 2-го курса**, учусь на программиста.
+* 💻 Активно изучаю современные технологии, языки программирования и архитектуру кода.
+* 🚀 Стремлюсь развивать свои навыки, создавать полезные проекты и расти как разработчик.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Что я сейчас изучаю 📚
+* Погружаюсь в основы алгоритмов и структур данных.
+* Изучаю [Python / C++].
+* Знакомлюсь с системой контроля версий Git и командной разработкой.
+
+## Мой стек и инструменты 🛠️
+* **Языки:** [HTML, Python]
+* **Инструменты:** VS Code, GitHub
+
+
+📫 **Как со мной связаться:** [annasid09@gmail.com]
+
